@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\unreal\\projects\\beyond-time\\beyondtimeproject\\plugins\\developer\\riderlink\\source\\rd\\rd.cpp",
+        "Source": "d:\\unreal\\projects\\beyondtimerepo\\beyondtimeproject\\plugins\\developer\\riderlink\\source\\rd\\rd.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "d:\\unreal\\projects\\beyond-time\\beyondtimeproject\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\rd\\definitions.h",
-            "d:\\unreal\\projects\\beyond-time\\beyondtimeproject\\plugins\\developer\\riderlink\\source\\rd\\rd.h",
+            "d:\\unreal\\projects\\beyondtimerepo\\beyondtimeproject\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\rd\\definitions.h",
+            "d:\\unreal\\projects\\beyondtimerepo\\beyondtimeproject\\plugins\\developer\\riderlink\\source\\rd\\rd.h",
             "d:\\unreal\\ue_5.0\\engine\\source\\runtime\\core\\public\\logging\\logmacros.h",
             "d:\\unreal\\ue_5.0\\engine\\source\\runtime\\core\\public\\coretypes.h",
             "d:\\unreal\\ue_5.0\\engine\\source\\runtime\\core\\public\\hal\\platform.h",
